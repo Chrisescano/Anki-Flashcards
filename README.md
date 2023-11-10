@@ -6,4 +6,6 @@ Link to download Anki application: https://apps.ankiweb.net/
 Anki version Qt6 for Windows 11 was used to make these flashcards.
 
 # Current Flashcards
-v1.0	- Java-Keywords
+### Java
+v1.0.0	- Keywords
+v1.0.0	- Syntax
